@@ -1,0 +1,15 @@
+{
+  "name": "project06_student_management_system",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "student managment system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rimsha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  }
+}
